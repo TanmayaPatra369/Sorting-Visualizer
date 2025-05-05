@@ -1,6 +1,6 @@
 # 🔢 Sorting Visualizer
 
-[![Watch the demo](https://img.youtube.com/vi/YAFD1jfcYbY/hqdefault.jpg)](https://youtu.be/YAFD1jfcYbY)
+🎥 [Watch Demo on YouTube](https://youtu.be/YAFD1jfcYbY)
 
 An interactive web application to **visualize sorting algorithms** in real-time, built using **React**, **TypeScript**, **TailwindCSS**, and **Vite**. This project helps you understand the inner workings of popular sorting algorithms through dynamic, animated visualizations.
 
