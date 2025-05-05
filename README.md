@@ -1,6 +1,6 @@
 # 🔢 Sorting Visualizer
 
-![Sorting Visualizer Demo](https://steady-khapse-fdc88a.netlify.app/preview.png)
+![Sorting Visualizer Demo]([https://youtu.be/YAFD1jfcYbY])
 
 An interactive web application to **visualize sorting algorithms** in real-time, built using **React**, **TypeScript**, **TailwindCSS**, and **Vite**. This project helps you understand the inner workings of popular sorting algorithms through dynamic, animated visualizations.
 
